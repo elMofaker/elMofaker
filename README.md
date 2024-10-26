@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F75F&center=true&width=500&lines=Frontend+Developer;Backend+Developer;Freelancer+Programmer;React.js+Specialist" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F75F&center=true&width=500&lines=MERN+Stack+Developer;UI%2FUX+Designer;React.js+Specialist;Frontend+Developer;Freelancer+Programmer" alt="Typing SVG">
   </a>
 </p>
 
