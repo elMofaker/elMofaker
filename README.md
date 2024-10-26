@@ -58,14 +58,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	
-<a href="in/yuossef-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-
-<a href="https://www.facebook.com/?locale=ar_AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/24280540/user24280540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-
+<a href="in/yuossef-ahmed" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 	alt="supunnanayakkara" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/?locale=ar_AR" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 		alt="supun.nanayakkaraii" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/24280540/user24280540" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 	alt="supun-nanayakkara" height="30" width="40" />
+</a>
 <a href="https://codepen.io/your-work" target="_blank">
-  <img align="center" src="http://www.w3.org/2000/svg" alt="yuosef-el-fadaly" height="30" width="40" />
+  <img align="center" src="http://www.w3.org/2000/svg" viewBox="0 0 512 512" alt="yuosef-el-fadaly" height="30" width="40" />
 </a>
 <!-- <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a> -->
@@ -100,7 +103,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=hostinger,godaddy,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,hostinger,godaddy" />
   </a>
 </p>
 
