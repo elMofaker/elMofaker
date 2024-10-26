@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm <span style="color:#FF5733; font-weight: bold;">Yousef El Fadaly</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#FF4500; font-size: 2em; font-weight: bold; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);">Yousef El Fadaly</span></h1>
 
 <p align="center">
   <a href="https://github.com/yourusername" target="_blank">
