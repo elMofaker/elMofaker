@@ -52,13 +52,13 @@
 
 - 📫 How to reach me [Contact me](tgtgygyuossef@gmail.com)
 
-- 📄 Check out my articles [my experiences](in/yuossef-ahmed)
+- 📄 Check out my articles [my experiences](https://www.linkedin.com/in/yuossef-ahmed/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	
-<a href="in/yuossef-ahmed" target="blank">
+<a href="https://www.linkedin.com/in/yuossef-ahmed/" target="blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 	alt="supunnanayakkara" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/?locale=ar_AR" target="blank">
@@ -68,7 +68,7 @@
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 	alt="supun-nanayakkara" height="30" width="40" />
 </a>
 <a href="https://codepen.io/your-work" target="_blank">
-  <img align="center" src="http://www.w3.org/2000/svg" viewBox="0 0 512 512" alt="yuosef-el-fadaly" height="30" width="40" />
+  <img align="center" src="/show/349323/codepen.svg" viewBox="0 0 512 512" alt="yuosef-el-fadaly" height="30" width="40" />
 </a>
 <!-- <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a> -->
