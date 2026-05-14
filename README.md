@@ -71,36 +71,121 @@
 <!-- فاصل حركي -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- قسم الإحصائيات - استبدل 'YOUR_GITHUB_USERNAME' باسمك -->
+
 <h3 align="left">GitHub Stats:</h3>
+
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=midnight-purple&show_icons=true&hide=contribs,issues" alt="Yousef's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple" alt="GitHub Streak" />
+
+
+
+ 
+
+
+
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+
+
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+
+
+
+
+
+
+
 </div>
 
-<br>
 
-<!-- الرسم البياني للنشاط -->
-<h3 align="left">Activity Graph:</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
-</div>
 
-<br>
 
-<!-- فاصل حركي -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- لعبة الثعبان - استبدل 'YOUR_GITHUB_USERNAME' باسمك -->
-## 🐍 A Snake Eating my Contributions Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
+
 
 <br><br>
 
-<!-- الخاتمة -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+
+
+
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+
+
+
+<h3 align="left">Activity:</h3>
+
+
+
+
+
+
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+<br><br>
+
+
+
+
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+
+
+
+## 🐍 A Snake Eating my Contributions Graph
+
+
+
+
+
+
+<p align = "center">
+
+
+
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+
+
 </p>
+
+
+
+<br><br>
+
+
+
+
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
