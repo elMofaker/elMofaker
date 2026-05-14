@@ -32,21 +32,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- لينكيد ان -->
-<a href="https://www.linkedin.com/in/yuossef-ahmed/" target="blank">
+<a href="https://www.linkedin.com/in/elmofaker/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yousef El Fadaly LinkedIn" height="30" width="40" /></a>
 <!-- فيسبوك -->
-<a href="[رابط_حساب_الفيسبوك_الخاص_بك_هنا]" target="blank">
+<a href="[https://web.facebook.com/elmofaker]" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yousef El Fadaly Facebook" height="30" width="40" /></a>
 <!-- انستجرام -->
-<a href="[رابط_حساب_الانستجرام_الخاص_بك_هنا]" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yousef El Fadaly Instagram" height="30" width="40" /></a>
 <!-- واتساب - استبدل برقمك بعد مفتاح الدولة بدون أصفار -->
-<a href="https://wa.me/201021170207" target="blank">
+<a href="https://wa.me/+201021170207" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Yousef El Fadaly WhatsApp" height="30" width="40" /></a>
 <!-- ستاك اوفر فلو -->
-<a href="https://stackoverflow.com/users/24280540/user24280540" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Yousef El Fadaly StackOverflow" height="30" width="40" /></a>
-</p>
 
 <br>
 
