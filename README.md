@@ -21,9 +21,7 @@
 </p>
  
 <!-- عداد زيارات البروفايل - استبدل 'YOUR_GITHUB_USERNAME' باسم مستخدم جيت هاب الخاص بك -->
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=FF4500&style=flat" alt="Yousef El Fadaly Views" /> 
-</p>
+
 
 <!-- فاصل حركي -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
