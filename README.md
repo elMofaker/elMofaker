@@ -17,8 +17,6 @@
 <h3 align="center">A passionate Programmer from Egypt 🇪🇬</h3>
 
 <p align="center" style="font-size: 1.1em; line-height: 1.6; max-width: 800px; margin: 0 auto;">
-أنا لا أبني مجرد مواقع، بل أصمم تجارب رقمية متكاملة تبدأ من واجهة المستخدم الجذابة وتنتهي بكود برمجي قوي ومستقر. متخصص في تحويل الأفكار المعقدة إلى واقع ملموس باستخدام أحدث تقنيات الويب مثل **React** و **Next.js**.
-<br><br>
 <em>I don't just build websites; I design integrated digital experiences starting from attractive User Interfaces to robust and stable backend code. Specialized in transforming complex ideas into tangible reality using the latest web technologies.</em>
 </p>
  
