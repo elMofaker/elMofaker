@@ -65,12 +65,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 🚀 Currently working on my own company **[elmofaker.com](https://elmofaker.com)**
-- 🌱 Learning and exploring **DevOps** methodologies.
+- 🚀 Currently working on my own company **[scope code](https://scope-code.com)**
 - 👨‍💻 All of my projects are available at **[elmofaker.com](https://elmofaker.com)**
 - 💬 Ask me about **MERN Stack, Next.js Architecture, and UI/UX best practices.**
-- 📫 Reach me via Email: **[tgtgygyuossef@gmail.com](mailto:tgtgygyuossef@gmail.com)**
-- 📄 View my professional experiences on **[LinkedIn](https://www.linkedin.com/in/yuossef-ahmed/)**
+- 📫 Reach me via Email: **[info@elmofaker.com](mailto:info@elmofaker.com)**
+- 📄 View my professional experiences on **[LinkedIn](https://www.linkedin.com/in/elmofaker/)**
 
 <br><br>
 
